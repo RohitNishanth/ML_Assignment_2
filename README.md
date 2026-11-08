@@ -67,7 +67,7 @@ streamlit run app.py
 ## d. Models used and evaluation
 Each model is a scikit-learn `Pipeline`: median imputation and standard scaling of all features,
 followed by the classifier. Hyper-parameters were chosen by 5-fold stratified grid search on the
-**training split only** (F1 score); the test split was used once, for the final numbers below.
+**training split only** (weighted F1 score); the test split was used once, for the final numbers below.
 
 | Model | Tuned setting |
 |---|---|
