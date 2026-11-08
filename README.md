@@ -1,7 +1,8 @@
 # Spam e-mail classification with five classical ML models — ML Assignment 2 (M.Tech AIML, BITS WILP)
 
-**Live app:** <PASTE YOUR STREAMLIT LINK>
-**Repository:** <PASTE YOUR GITHUB LINK>
+**Live app:** https://mlassignment2bits.streamlit.app/  
+**Repository:** https://github.com/RohitNishanth/ML_Assignment_2  
+**GitHub profile:** https://github.com/RohitNishanth
 
 ## a. Problem statement
 Build a classifier that decides whether an incoming e-mail is **spam** or **not spam** from simple
@@ -36,7 +37,7 @@ such as `george`, `hp` and `650` refer to the original donor's own name, employe
 are strong "not spam" signals in this dataset but would not transfer to another mailbox.
 
 ## c. GitHub repository
-<PASTE YOUR GITHUB LINK>
+https://github.com/RohitNishanth/ML_Assignment_2
 
 ```
 project-folder/
