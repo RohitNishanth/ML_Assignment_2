@@ -1,0 +1,10 @@
+# Versions this project was tested with. CRITICAL: scikit-learn (and numpy) here must be the
+# EXACT versions you trained with on BITS Virtual Lab, otherwise the saved .joblib models can
+# fail to load on Streamlit Cloud. Check with:  pip show scikit-learn numpy | grep -E "Name|Version"
+streamlit==1.67.0
+scikit-learn==1.9.1
+numpy==2.5.4
+pandas==3.0.6
+joblib==1.6.0
+matplotlib==3.11.2
+seaborn==0.13.2

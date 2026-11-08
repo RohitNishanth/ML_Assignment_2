@@ -1,0 +1,6 @@
+ML Model Name,Train Accuracy,Test Accuracy,Gap,Best Params,Fit seconds
+Logistic Regression,0.9284441805225653,0.9156769596199525,0.01276722090261273,"{""clf__C"": 1}",0.6
+Decision Tree,0.9697149643705463,0.9061757719714965,0.06353919239904982,"{""clf__max_depth"": 10, ""clf__min_samples_leaf"": 1}",3.3
+KNN,0.9994061757719715,0.9014251781472684,0.09798099762470314,"{""clf__n_neighbors"": 11, ""clf__weights"": ""distance""}",1.7
+Naive Bayes,0.8260095011876485,0.836104513064133,-0.010095011876484539,"{""clf__var_smoothing"": 1e-05}",0.4
+Support Vector Machine,0.961104513064133,0.9192399049881235,0.04186460807600956,"{""clf__estimator__C"": 5}",12.7
